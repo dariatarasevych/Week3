@@ -1,0 +1,14 @@
+/Users/daratarasevic/RiderProjects/24_02_practice/24_02_practice/obj/Debug/net10.0/24_02_practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daratarasevic/RiderProjects/24_02_practice/24_02_practice/obj/Debug/net10.0/24_02_practice.AssemblyInfoInputs.cache
+/Users/daratarasevic/RiderProjects/24_02_practice/24_02_practice/obj/Debug/net10.0/24_02_practice.AssemblyInfo.cs
+/Users/daratarasevic/RiderProjects/24_02_practice/24_02_practice/obj/Debug/net10.0/24_02_practice.csproj.CoreCompileInputs.cache
+/Users/daratarasevic/RiderProjects/24_02_practice/24_02_practice/bin/Debug/net10.0/24_02_practice
+/Users/daratarasevic/RiderProjects/24_02_practice/24_02_practice/bin/Debug/net10.0/24_02_practice.deps.json
+/Users/daratarasevic/RiderProjects/24_02_practice/24_02_practice/bin/Debug/net10.0/24_02_practice.runtimeconfig.json
+/Users/daratarasevic/RiderProjects/24_02_practice/24_02_practice/bin/Debug/net10.0/24_02_practice.dll
+/Users/daratarasevic/RiderProjects/24_02_practice/24_02_practice/bin/Debug/net10.0/24_02_practice.pdb
+/Users/daratarasevic/RiderProjects/24_02_practice/24_02_practice/obj/Debug/net10.0/24_02_practice.dll
+/Users/daratarasevic/RiderProjects/24_02_practice/24_02_practice/obj/Debug/net10.0/refint/24_02_practice.dll
+/Users/daratarasevic/RiderProjects/24_02_practice/24_02_practice/obj/Debug/net10.0/24_02_practice.pdb
+/Users/daratarasevic/RiderProjects/24_02_practice/24_02_practice/obj/Debug/net10.0/24_02_practice.genruntimeconfig.cache
+/Users/daratarasevic/RiderProjects/24_02_practice/24_02_practice/obj/Debug/net10.0/ref/24_02_practice.dll
